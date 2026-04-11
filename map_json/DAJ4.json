@@ -7,7 +7,7 @@
       "date": "2026-04-12",
       "changelog": "Realistic demand data using official Korean government data (KOTI, MOLIT, MODS, MOIS).",
       "download": "https://github.com/kimth9/sb_korean_map_pack/releases/download/v0.1.0/DAJ4.zip",
-      "sha256":"d88da68d276cea8e8745a034a2ed550bd9ba9f451e89837ab4951eb1b58f94d4"
+      "sha256":"cdffa28ea2b43016d7199d76639fbd6b7cddba256b9bb47f7eef064239fa807e"
     }
   ]
 }
