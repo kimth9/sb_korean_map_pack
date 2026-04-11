@@ -37,3 +37,7 @@ Korean Map Pack(KMP) is a map mode for Subway Builder with Real-world demand map
 
 ## Issues/Questions
 - Please notice me any suggestions and any issues to me using [Discord Channel](https://discord.com/channels/1420846272545296470/1488123736270831717).
+
+## Further Update Plan
+- v0.2.0: Addition of major Points of Interest (POIs) for each map (e.g., airports, high-speed rail stations, etc.)
+- v0.3.0: Implementation of adjusted demand data for select areas
