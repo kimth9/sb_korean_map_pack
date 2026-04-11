@@ -24,8 +24,8 @@ Korean Map Pack(KMP) is a map mode for Subway Builder with Real-world demand map
   - 읍면동 (Eup, Myeon, Dong - Neighborhood level)
 
 ## Methodology
-- Resident and commuter totals are approximated using **KTDB traffic analysis zone** data, spatially disaggregated via 500m population mesh grids to achieve sub-zone point placement.
-- OD pairs are ranked by total trip volume, and driving paths are computed via **A routing** on the national road network.
+- Resident and commuter totals are approximated using KTDB traffic analysis zone data, spatially disaggregated via 500m population mesh grids to achieve sub-zone point placement.
+- OD pairs are ranked by total trip volume, and driving paths are computed via A routing on the national road network.
 
 ## Primary Data Sources
 - Korean Transportation Database (Korea Transport Institute, KOTI) (ktdb.go.kr)
