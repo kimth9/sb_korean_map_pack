@@ -7,7 +7,7 @@
       "date": "2026-04-23",
       "changelog": "Realistic demand data using official Korean government data (KOTI, MOLIT, MODS, MOIS).",
       "download": "https://github.com/kimth9/sb_korean_map_pack/releases/download/v0.2.0/ICN4.zip",
-      "sha256":"81c96fd4347299d0ca02df04277f7d2618bb3ceb55a2ea2fc9ee1b63a491fd96"
+      "sha256":"648d6fed7db75748094a14b6ada8bf88093c45fe5022f225dc8a9288c2fa0103"
     },
     {
       "version": "0.1.1",
