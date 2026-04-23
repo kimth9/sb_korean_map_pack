@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "0.2.0",
+      "game_version": ">=1.3.0",
+      "date": "2026-04-23",
+      "changelog": "Realistic demand data using official Korean government data (KOTI, MOLIT, MODS, MOIS).",
+      "download": "https://github.com/kimth9/sb_korean_map_pack/releases/download/v0.2.0/SEJ3.zip",
+      "sha256":"39243cf6f65e867764560e05e19464799e2b743dca3fc5bfcbf2f27baf97f281"
+    },
+    {
       "version": "0.1.1",
       "game_version": ">=1.3.0",
       "date": "2026-04-14",
